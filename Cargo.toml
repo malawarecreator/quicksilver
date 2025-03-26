@@ -2,7 +2,8 @@
 name = "quicksilverx"
 version = "0.1.0"
 edition = "2024"
-
+description = "easy to use grep clone"
+license = "MIT"
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
 walkdir = "2.5.0"
